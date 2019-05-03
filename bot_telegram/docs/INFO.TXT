@@ -1,0 +1,3 @@
+Bot creado por Xosé.
+Este bot no está pensando para tener un código bonito o estar bien diseñado estructuralmente, 
+la finalidad es formativa para testear y prácticar un poco de código en PHP.

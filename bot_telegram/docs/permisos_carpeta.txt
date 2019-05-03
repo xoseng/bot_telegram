@@ -1,0 +1,5 @@
+chmod 575
+
+Ejemplo: chmod 575 bot_telegram
+
+Tienes la opción de añadir al usuario del sistema al grupo www-data.

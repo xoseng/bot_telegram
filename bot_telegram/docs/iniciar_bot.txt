@@ -1,0 +1,13 @@
+CREAR BOT EN LA SIGUIENTE URL:
+
+https://telegram.me/BotFather
+
+ESTABLECER EL BOT CON EL SIGUIENTE LINK:
+
+Si el bot deja de funcionar, abre el link de nuevo!
+
+https://api.telegram.org/bot<YOUR TOKEN HERE>/setwebhook?url=<ULR PATH TO WEBHOOK>
+
+Ejemplo:
+
+https://api.telegram.org/bot7456623341:AAGE6G1ZZbA6Re7d0Ov74532N0c_uKNgA7s/setwebhook?url=https://mypage.com/bot_telegram/webhook.php
